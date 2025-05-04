@@ -1,2 +1,2 @@
 # jiny-admin
-amdin 만들기
+admin 만들기
